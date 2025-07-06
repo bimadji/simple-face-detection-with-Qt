@@ -1,0 +1,4 @@
+/home/bima/Downloads/TesProjek/build/CMakeFiles/camera_app.dir
+/home/bima/Downloads/TesProjek/build/CMakeFiles/edit_cache.dir
+/home/bima/Downloads/TesProjek/build/CMakeFiles/rebuild_cache.dir
+/home/bima/Downloads/TesProjek/build/CMakeFiles/camera_app_autogen.dir
